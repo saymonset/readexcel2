@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Thu Nov 14 10:29:15 VET 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0142-571f-8c73-000006d24160 
+on database directory C:\workspaceIV\readexcel2\simpleDb  with class loader sun.misc.Launcher$AppClassLoader@35a16869 
+Loaded from file:/C:/Users/Jesus/.m2/repository/org/apache/derby/derby/10.8.2.2/derby-10.8.2.2.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_25-b06
+user.dir=C:\workspaceIV\readexcel2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
